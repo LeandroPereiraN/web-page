@@ -1,0 +1,15 @@
+/* Reglas compartidas para ambos botones */
+.btn1, .btn2 {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* Reglas únicas */
+.btn1 {
+  background-color: black;
+  color: white;
+}
+
+.btn2 {
+  background-color: yellow;
+}
